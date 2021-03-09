@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+
+    <title>Etch-A-Sketch</title>
+</head>
+
+<body>
+
+<div class="title">
+    <h1 id="title">Etch-A-Sketch</h1>
+</div>
+
+<div class="titleSub">
+    <h2 id="titleSub">A simple example of a classic game</h2>
+</div>
+    
+
+
+<div class="game">
+<div class="userInput">  
+    <p for="size">Choose your Sketch Pad Size</p>
+    <input id="size" type="range" name="Sketch Size" min="16" max="100">
+    <button class="resetButton" onClick="window.location.reload();">Reset</button>
+</div>
+
+<div class="container"></div>
+</div>
+
+<script src="app.js"></script>    
+</body>
+
+<footer>
+    <p>A project made by @adcanis</p>
+</footer>
+
+</html>
