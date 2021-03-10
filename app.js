@@ -27,7 +27,7 @@ function makeGrid(gridSize) {
     }
 }
 
-//User Draw
+//User select a size
 
 function getSize() {
 gridSize.addEventListener('click', function() {
@@ -35,6 +35,7 @@ gridSize.addEventListener('click', function() {
     makeGrid(gridSize);
 })
 } getSize();
+
 
 
 
