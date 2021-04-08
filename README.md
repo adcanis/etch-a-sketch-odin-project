@@ -4,7 +4,7 @@
 
 A classic toy reimagined for The Odin Project's Foundations course. 
 
-This particular project represents roughly 20hrs of work and possibly one too many coffees. With that said however, I found this project challenging and very stimulating as learning to create items in HTML from JavaScript was a fresh idea learned mearly hours before attempting this project. 
+This particular project represents possibly one too many coffees. With that said however, I found this project challenging and very stimulating as learning to create items in HTML from JavaScript was a fresh idea learned mearly hours before attempting this project. 
 
 **What I learned**
 
